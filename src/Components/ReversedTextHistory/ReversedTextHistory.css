@@ -1,0 +1,18 @@
+.word-history {
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+table {
+    min-width: 15rem;
+}
+
+table,
+td {
+    border: 1px solid white;
+    text-align: center;
+}
+
+td {
+    padding: 7px;
+}
